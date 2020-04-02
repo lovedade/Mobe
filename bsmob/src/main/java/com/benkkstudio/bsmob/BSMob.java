@@ -23,9 +23,9 @@ import com.google.android.gms.ads.reward.RewardedVideoAd;
 import com.google.android.gms.ads.reward.RewardedVideoAdListener;
 
 public class BSMob {
-    public static final String DUMMY_BANNER = "ca-app-pub-3940256099942544/6300978111";
-    public static final String DUMMY_INTERSTITIAL = "ca-app-pub-3940256099942544/1033173712";
-    public static final String DUMMY_REWARD = "ca-app-pub-3940256099942544/6300978111";
+    public static final String DUMMY_BANNER = "ca";
+    public static final String DUMMY_INTERSTITIAL = "ca";
+    public static final String DUMMY_REWARD = "ca";
 
     private Activity activity;
     private String interstitialId;
